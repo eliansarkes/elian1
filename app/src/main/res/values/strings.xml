@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="text1_hint">Name</string>
+    <string name="text2_hint">Noun</string>
+    <string name="text3_hint">An Event</string>
+    <string name="instruction_hint">how to play Mad Libs Hall Pass</string>
+    <string name="button1_label">Make my hall pass</string>
+    <string name="button2_label">Clear</string>
+    <string name="text4_hint">MAD LIBS</string>
+</resources>
